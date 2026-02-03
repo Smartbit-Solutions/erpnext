@@ -17,7 +17,7 @@ $.extend(frappe.breadcrumbs.preferred, {
 });
 
 $.extend(frappe.breadcrumbs.module_map, {
-	"ERPNext Integrations": "Integrations",
+	"Smartbits ERP Integrations": "Integrations",
 	Geo: "Settings",
 	Portal: "Website",
 	Utilities: "Settings",

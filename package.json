@@ -1,15 +1,15 @@
 {
-  "name": "erpnext",
-  "description": "Open Source ERP System powered by the Frappe Framework",
+  "name": "smartbits-erp",
+  "description": "Smartbits ERP System",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frappe/erpnext.git"
+    "url": ""
   },
-  "homepage": "https://frappe.io/erpnext",
+  "homepage": "",
   "author": "Frappe Technologies Pvt. Ltd.",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/frappe/erpnext/issues"
+    "url": ""
   },
   "devDependencies": {},
   "dependencies": {

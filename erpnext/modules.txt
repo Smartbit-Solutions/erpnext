@@ -12,7 +12,7 @@ Assets
 Portal
 Maintenance
 Regional
-ERPNext Integrations
+Smartbits ERP Integrations
 Quality Management
 Communication
 Telephony
