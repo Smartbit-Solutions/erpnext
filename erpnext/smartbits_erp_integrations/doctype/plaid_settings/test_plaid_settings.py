@@ -6,7 +6,7 @@ import frappe
 from frappe.tests import IntegrationTestCase
 from frappe.utils.response import json_handler
 
-from erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings import (
+from erpnext.smartbits_erp_integrations.doctype.plaid_settings.plaid_settings import (
 	add_account_subtype,
 	add_account_type,
 	add_bank_accounts,
