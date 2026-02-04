@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nRebrand ERPNext to Smartbits ERP across all user-facing elements\n\n- Updated app title and branding in core configuration files\n- Renamed all desktop icons and workspace labels\n- Updated UI templates and help text\n- Removed external URLs \\(frappe.io, GitHub links\\)\n- Updated documentation files \\(README, SECURITY, TRADEMARK_POLICY\\)\n- Changed package name to smartbits-erp\n- Updated email footers and website content\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git push:*)",
+      "Bash(gh auth:*)",
+      "Bash(gh repo view:*)",
+      "Bash(git remote set-url:*)"
+    ]
+  }
+}
